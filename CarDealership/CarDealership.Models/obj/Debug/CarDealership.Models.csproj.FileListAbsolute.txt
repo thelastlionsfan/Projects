@@ -1,0 +1,16 @@
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\CarDealership.Models.dll.config
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\CarDealership.Models.dll
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\CarDealership.Models.pdb
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\EntityFramework.dll
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\EntityFramework.xml
+C:\GitHub\projects\CarDealership\CarDealership.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.csprojResolveAssemblyReference.cache
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.Migrations.CreateInitialTables.resources
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.Migrations.updaterequest.resources
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.Migrations.addstatusfield.resources
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.Migrations.addtestfield.resources
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.Migrations.ChangedEnumToInt.resources
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.csproj.GenerateResource.Cache
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.dll
+C:\GitHub\projects\CarDealership\CarDealership.Models\obj\Debug\CarDealership.Models.pdb

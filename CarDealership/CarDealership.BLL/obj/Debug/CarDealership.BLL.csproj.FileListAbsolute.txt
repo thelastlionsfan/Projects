@@ -1,0 +1,14 @@
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.BLL.dll.config
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.BLL.dll
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.BLL.pdb
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.Data.dll
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.Models.dll
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\EntityFramework.dll
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.Data.pdb
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\CarDealership.Models.pdb
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\EntityFramework.xml
+C:\GitHub\projects\CarDealership\CarDealership.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\projects\CarDealership\CarDealership.BLL\obj\Debug\CarDealership.BLL.csprojResolveAssemblyReference.cache
+C:\GitHub\projects\CarDealership\CarDealership.BLL\obj\Debug\CarDealership.BLL.dll
+C:\GitHub\projects\CarDealership\CarDealership.BLL\obj\Debug\CarDealership.BLL.pdb
