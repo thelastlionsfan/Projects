@@ -1,0 +1,5 @@
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.Models\bin\Debug\HRPortal.Models.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.Models\bin\Debug\HRPortal.Models.pdb
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.pdb
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.csprojResolveAssemblyReference.cache

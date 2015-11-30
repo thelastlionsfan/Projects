@@ -1,0 +1,15 @@
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\obj\Debug\HRPortal.DLL.csprojResolveAssemblyReference.cache
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\HRPortal.DLL.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\HRPortal.DLL.pdb
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\HRPortal.Models.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\HRPortal.Models.pdb
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\obj\Debug\HRPortal.DLL.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\obj\Debug\HRPortal.DLL.pdb
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\nunit.core.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\nunit.core.interfaces.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\nunit.framework.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\nunit.util.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\nunit.framework.xml
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\FlooringProgram\flooringprogram\flooringprogram\HRPortal\HRPortal.DLL\bin\Debug\Newtonsoft.Json.xml

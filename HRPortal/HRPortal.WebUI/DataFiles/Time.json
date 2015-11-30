@@ -1,0 +1,18 @@
+[
+  {
+    "EmpID": 1,
+    "FirstName": "Aaron",
+    "LastName": "Denney",
+    "Date": [ "2015-10-31", "2015-11-1"],
+    "HoursWorked": 100
+  },
+
+  {
+    "EmpID": 2,
+    "FirstName": "Alex",
+    "LastName": "Williams",
+    "Date": ["2015-10-31", "2015-11-1"],
+    "HoursWorked": 100
+  }
+
+]

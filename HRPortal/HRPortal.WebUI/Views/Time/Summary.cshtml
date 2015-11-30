@@ -1,0 +1,23 @@
+﻿@model HRPortal.Models.Time
+@{
+    ViewBag.Title = "Summary";
+}
+
+<h4>Employee Summary</h4>
+
+<h2>@Html.DisplayFor(x => x.FirstName) @Html.DisplayFor(x => x.LastName)</h2>
+<hr />
+<p>Hours Worked : @Html.DisplayFor(x => x.HoursWorked)</p>
+
+@foreach (var dates in Model.Date)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10"><p>Dates: @Html.DisplayFor(x => dates)</p></div>
+        </div>
+    </div>
+
+}
+    
+
+
